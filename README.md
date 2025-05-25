@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mkhan2022
-- 👀 I’m interested in coding with Python.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning HTML, CSS, JS, and Java. Have a background in Python. 
 - 💞️ I’m looking to collaborate on simple projects to build my understanding of coding.
 
 <!---
